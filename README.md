@@ -44,18 +44,7 @@ Admins can upload/manage jerseys, and users can explore products by category (Cr
 
 ---
 
-## 📁 Project Structure (example)
 
-> The exact structure may differ, but roughly:
-
-- `index.php` – Homepage / landing page
-- `products/` – Product listing / category pages
-- `admin/` – Admin dashboard, add jersey, manage jerseys
-- `includes/` – Common header/footer, DB connection
-- `assets/` – CSS, images, JS files
-- `sql/` or `sportshub.sql` – Database schema (if included)
-
----
 
 ## 🚀 Getting Started (Local Setup)
 
